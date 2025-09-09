@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gustavo Augusto
 
-<!--
-**guga642/guga642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software na UnB  
+💻 Apaixonado por desenvolvimento backend e frontend  
+🚀 Atualmente explorando **Next.js, Node.js e React**  
+📊 Interesse em arquitetura de sistemas e bancos de dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que utilizo
+- **Linguagens:** JavaScript, TypeScript, Python, Java  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, APIs REST  
+- **Banco de Dados:** PostgreSQL, MongoDB  
+- **Outros:** Git, Docker  
+
+---
+
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/gustavo-augusto-470b38331//)  
+- Email: **gustavoaugusto0803@gmail.com**  
