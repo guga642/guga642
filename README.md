@@ -2,8 +2,7 @@
 
 🎓 Estudante de Engenharia de Software na UnB  
 💻 Apaixonado por desenvolvimento backend e frontend  
-🚀 Atualmente explorando **Next.js, Node.js e React**  
-📊 Interesse em arquitetura de sistemas e bancos de dados  
+🚀 Atualmente explorando **Next.js, Node.js e React**    
 
 ---
 
